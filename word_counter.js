@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.bold(`\n \t Wellcome to Word Counter Made By Asjad Nawaz`));
