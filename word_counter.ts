@@ -17,3 +17,6 @@ console.log(words);
 console.log(`\n`)
 
 console.log(`Number Of Words in the Sentence: ${chalk.yellow(words.length)}`);
+
+console.log("=".repeat(60));
+console.log(chalk.bold(`Thank You For Using Word Counter`))
